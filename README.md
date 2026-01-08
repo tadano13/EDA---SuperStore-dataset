@@ -4,7 +4,7 @@
 > You can simply download this notebook and open it in Colab or any ide and interact with it.
 
 ***Download all The Libraries Required for the Running the file + download the dataset too***
-<ins>Libraries Used:</ins><br>
+>br><ins>Libraries Used:</ins><br>
 **Matplot**<br>
 **Pandas**<br>
 **Seaborn**<br>
